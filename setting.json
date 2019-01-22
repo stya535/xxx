@@ -1,0 +1,49 @@
+{
+    "Addimage": false,
+    "Images": {},
+    "Img": {},
+    "SOLOAdmin": {},
+    "SOLOGfoto": {},
+    "SOLOSDadmin": false,
+    "SOLOSDstaff": false,
+    "SOLOSadmin": false,
+    "SOLOSstaff": false,
+    "SOLOStaff": {},
+    "SOLOautojoin": true,
+    "SOLOautoread": false,
+    "SOLOautoscan": false,
+    "SOLOblacklist": {},
+    "SOLOdblacklist": false,
+    "SOLOfoto": {},
+    "SOLOgreet": {},
+    "SOLOlimit": 1,
+    "SOLOmessage": "Hallo...",
+    "SOLOmessage1": "Creator http://line.me/ti/p/~gerhanaselatan",
+    "SOLOprotcancel": {},
+    "SOLOprotinvite": {},
+    "SOLOprotkick": {},
+    "SOLOprotqr": {},
+    "SOLOreadMember": {
+        "cc6502b589590d7c15f778b2652a89adf": {
+            "ue0bdbe9e684bef8acb988069e9210b43": true
+        }
+    },
+    "SOLOreadPoint": {
+        "cc6502b589590d7c15f778b2652a89adf": "9220852966533"
+    },
+    "SOLOwblacklist": false,
+    "autoAdd": false,
+    "autoJoin": false,
+    "autoJoinTicket": true,
+    "autoLeave": true,
+    "autoRead": false,
+    "autoReject": false,
+    "changeGroupPicture": false,
+    "changePicture": false,
+    "keyCommand": "",
+    "namecreator": "Solo",
+    "restartBot": {},
+    "restartPoint": "ca66364a138240963ac961d05c45b8300",
+    "server": {},
+    "userAgent": {}
+}
